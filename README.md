@@ -1,1 +1,1 @@
-![](assets/20221223_161555_linkedin_christmas.png)
+![](assets/20230108_212338_linkedin_btp.png)
