@@ -1,1 +1,1 @@
-![](assets/ElliotCode_codewriter_team_square.png)
+![](assets/mbt_build.gif)
