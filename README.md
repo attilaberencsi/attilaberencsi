@@ -1,1 +1,1 @@
-![](assets/mbt_build.gif)
+![](assets/PaperWorkTheme.png)
