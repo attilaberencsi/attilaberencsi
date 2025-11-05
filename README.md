@@ -88,7 +88,12 @@
                 </a>
             </td>
         </tr>
+        <tr>
+        <td colspan="3">
+        <a href="https://github.com/attilaberencsi/abapthemes" target="_blank" rel="noopener noreferrer">
+        <img src="assets/PaperWorkTheme.png" alt="ABAP Papaer Work Theme" style="border: 3px solid brown;"/>
+        </a>
+        </td>
+        </tr>
     </table>
 </div>
-
-[![ADT Themes](assets/PaperWorkTheme.png)](https://github.com/attilaberencsi/abapthemes)
