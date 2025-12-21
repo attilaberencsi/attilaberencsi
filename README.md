@@ -57,6 +57,11 @@
         <br>
         <sub>Branches: cloud, onPrem-2019</sub>
       </td>
+      <td width="33%" style="border:2px solid #e91e63;">
+        <a href="https://attilaberencsi.github.io/jsplay"><b>Javascript Playground</b></a>
+        <br>
+        <sub>Samples and Freestyle coding</sub>
+      </td>      
     </tr>    
     <tr>
     <td colspan="3" align="center" style="border:2px solid #795548;">
