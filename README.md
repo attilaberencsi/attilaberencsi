@@ -2,63 +2,63 @@
   <table>
     <tr>
       <td width="33%" style="border:2px solid #2196f3;">
-        <a href="https://github.com/attilaberencsi/zsapdev_agit/tree/cloud"><b>RAP Reuse Libraries, Utilities and Samples</b></a>
+        <a href="https://github.com/attilaberencsi/zsapdev_agit/tree/cloud" target="_blank"><b>RAP Reuse Libraries, Utilities and Samples</b></a>
         <br>
         <sub>Branches: cloud, onPrem-2023</sub>
       </td>
       <td width="33%" style="border:2px solid #f44336;">
-        <a href="https://github.com/attilaberencsi/abapthemes"><b>Eclipse Themes</b></a>
+        <a href="https://github.com/attilaberencsi/abapthemes" target="_blank"><b>Eclipse Themes</b></a>
         <br>
         <sub>ABAP Development Tool</sub>
       </td>
       <td width="33%" style="border:2px solid #00bcd4;">
-        <a href="https://attilaberencsi.github.io/favorites2/"><b>Favorites</b></a>
+        <a href="https://attilaberencsi.github.io/favorites2/" target="_blank"><b>Favorites</b></a>
         <br>
         <sub>github.io</sub>
       </td>      
     </tr>
     <tr>
       <td width="33%" style="border:2px solid #ff9800;">
-        <a href="https://github.com/attilaberencsi/gwtools"><b>GateWay Cache and Utils</b></a>
+        <a href="https://github.com/attilaberencsi/gwtools" target="_blank"><b>GateWay Cache and Utils</b></a>
         <br>
         <sub>Branches: onPrem-2022</sub>
       </td>
       <td width="33%" style="border:2px solid #4caf50;">
-        <a href="https://github.com/attilaberencsi/trlist"><b>Transport Status List</b></a>
+        <a href="https://github.com/attilaberencsi/trlist" target="_blank"><b>Transport Status List</b></a>
         <br>
         <sub>Branches: onPrem-2022</sub>
       </td>      
       <td width="33%" style="border:2px solid #3f51b5;">
-        <a href="https://github.com/attilaberencsi/cdsfindanno"><b>CDS Annotation Sample Finder</b></a>
+        <a href="https://github.com/attilaberencsi/cdsfindanno" target="_blank"><b>CDS Annotation Sample Finder</b></a>
         <br>
         <sub>Branches: onPremise only</sub>
       </td>
     </tr>    
     <tr>
       <td width="33%" style="border:2px solid #673ab7;">
-        <a href="https://github.com/attilaberencsi/freeflexcapts"><b>Fiori Flexible Programming Model (FPM)</b></a>
+        <a href="https://github.com/attilaberencsi/freeflexcapts" target="_blank"><b>Fiori Flexible Programming Model (FPM)</b></a>
         <br>
         <sub>CAP & UI5 in TypeScript</sub>
       </td>
       <td width="33%" style="border:2px solid #673ab7;">
-        <a href="https://github.com/attilaberencsi/zsapdev_3dmat"><b>Fiori FPM with Barcode Rendering</b></a>
+        <a href="https://github.com/attilaberencsi/zsapdev_3dmat" target="_blank"><b>Fiori FPM with Barcode Rendering</b></a>
         <br>
         <sub>UI5 TypeScript, Custom Sections and Actions</sub>
       </td>      
       <td width="33%" style="border:2px solid #ffeb3b;">
-        <a href="https://github.com/attilaberencsi/UI5_from_scratch"><b>UI5 Freestyle App</b></a>
+        <a href="https://github.com/attilaberencsi/UI5_from_scratch" target="_blank"><b>UI5 Freestyle App</b></a>
         <br>
         <sub>OData V4, TypeScript</sub>
       </td>
     </tr>
     <tr>
       <td width="33%" style="border:2px solid #e91e63;">
-        <a href="https://github.com/attilaberencsi/abapcloudcertificate"><b>ABAP Cloud Certificate Code Samples</b></a>
+        <a href="https://github.com/attilaberencsi/abapcloudcertificate" target="_blank"><b>ABAP Cloud Certificate Code Samples</b></a>
         <br>
         <sub>Branches: cloud, onPrem-2019</sub>
       </td>
       <td width="33%" style="border:2px solid #e91e63;">
-        <a href="https://attilaberencsi.github.io/jsplay"><b>Javascript Playground</b></a>
+        <a href="https://attilaberencsi.github.io/jsplay" target="_blank"><b>Javascript Playground</b></a>
         <br>
         <sub>Samples and Freestyle coding</sub>
       </td>      
