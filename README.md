@@ -1,70 +1,70 @@
 <div align="center">
   <table>
     <tr>
-      <td width="33%" style="border:2px solid #2196f3;">
+      <td width="33%" style="border:2px solid;">
         <a href="https://github.com/attilaberencsi/zsapdev_agit/tree/cloud" target="_blank"><b>RAP Reuse Libraries, Utilities and Samples</b></a>
         <br>
         <sub>Branches: cloud, onPrem-2023</sub>
       </td>
-      <td width="33%" style="border:2px solid #f44336;">
+      <td width="33%" style="border:2px solid;">
         <a href="https://github.com/attilaberencsi/abapthemes" target="_blank"><b>Eclipse Themes</b></a>
         <br>
         <sub>ABAP Development Tool</sub>
       </td>
-      <td width="33%" style="border:2px solid #00bcd4;">
+      <td width="33%" style="border:2px solid;">
         <a href="https://attilaberencsi.github.io/favorites2/" target="_blank"><b>Favorites</b></a>
         <br>
         <sub>github.io</sub>
       </td>      
     </tr>
     <tr>
-      <td width="33%" style="border:2px solid #ff9800;">
+      <td width="33%" style="border:2px solid;">
         <a href="https://github.com/attilaberencsi/gwtools" target="_blank"><b>GateWay Cache and Utils</b></a>
         <br>
         <sub>Branches: onPrem-2022</sub>
       </td>
-      <td width="33%" style="border:2px solid #4caf50;">
+      <td width="33%" style="border:2px solid;">
         <a href="https://github.com/attilaberencsi/trlist" target="_blank"><b>Transport Status List</b></a>
         <br>
         <sub>Branches: onPrem-2022</sub>
       </td>      
-      <td width="33%" style="border:2px solid #3f51b5;">
+      <td width="33%" style="border:2px solid;">
         <a href="https://github.com/attilaberencsi/cdsfindanno" target="_blank"><b>CDS Annotation Sample Finder</b></a>
         <br>
         <sub>Branches: onPremise only</sub>
       </td>
     </tr>    
     <tr>
-      <td width="33%" style="border:2px solid #673ab7;">
+      <td width="33%" style="border:2px solid;">
         <a href="https://github.com/attilaberencsi/freeflexcapts" target="_blank"><b>Fiori Flexible Programming Model (FPM)</b></a>
         <br>
         <sub>CAP & UI5 in TypeScript</sub>
       </td>
-      <td width="33%" style="border:2px solid #673ab7;">
+      <td width="33%" style="border:2px solid;">
         <a href="https://github.com/attilaberencsi/zsapdev_3dmat" target="_blank"><b>Fiori FPM with Barcode Rendering</b></a>
         <br>
         <sub>UI5 TypeScript, Custom Sections and Actions</sub>
       </td>      
-      <td width="33%" style="border:2px solid #ffeb3b;">
+      <td width="33%" style="border:2px solid;">
         <a href="https://github.com/attilaberencsi/UI5_from_scratch" target="_blank"><b>UI5 Freestyle App</b></a>
         <br>
         <sub>OData V4, TypeScript</sub>
       </td>
     </tr>
     <tr>
-      <td width="33%" style="border:2px solid #e91e63;">
+      <td width="33%" style="border:2px solid;">
         <a href="https://github.com/attilaberencsi/abapcloudcertificate" target="_blank"><b>ABAP Cloud Certificate Code Samples</b></a>
         <br>
         <sub>Branches: cloud, onPrem-2019</sub>
       </td>
-      <td width="33%" style="border:2px solid #e91e63;">
+      <td width="33%" style="border:2px solid;">
         <a href="https://attilaberencsi.github.io/jsplay" target="_blank"><b>Javascript Playground</b></a>
         <br>
         <sub>Samples and Freestyle coding</sub>
       </td>      
     </tr>    
     <tr>
-    <td colspan="3" align="center" style="border:2px solid #795548;">
+    <td colspan="3" align="center" style="border:2px solid;">
         <a href="https://github.com/attilaberencsi/abapthemes" target="_blank" rel="noopener noreferrer">
         <img src="assets/PaperWorkTheme.png" alt="ABAP Paper Work Theme" style="border: 3px solid brown;"/>
         </a>
@@ -73,7 +73,7 @@
         </div>
     </td>
     <tr>
-    <td colspan="3" align="center" style="border:2px solid #795548;">
+    <td colspan="3" align="center" style="border:2px solid;">
         <a href="https://github.com/attilaberencsi/abapthemes" target="_blank" rel="noopener noreferrer">
         <img src="assets/ABAPDarkTheme.png" alt="ABAP Paper Work Theme" style="border: 3px solid brown;"/>
         </a>
