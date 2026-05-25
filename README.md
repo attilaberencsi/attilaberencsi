@@ -7,7 +7,7 @@
         <sub>Branches: cloud, onPrem-2023</sub>
       </td>
       <td width="33%" style="border:2px solid;">
-        <a href="https://github.com/attilaberencsi/abapthemes" target="_blank"><b>Eclipse Themes</b></a>
+        <a href="https://attilaberencsi.github.io/abapthemes/" target="_blank"><b>Eclipse Themes</b></a>
         <br>
         <sub>ABAP Development Tool</sub>
       </td>
