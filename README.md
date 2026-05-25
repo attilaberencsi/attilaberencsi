@@ -74,16 +74,26 @@
         <img src="assets/PaperWorkTheme.png" alt="ABAP Paper Work Theme" style="border: 3px solid brown;"/>
         </a>
         <div style="margin-top: 8px; font-size: 1em; font-style: italic; color: inherit;">
-        ABAP PaperWork Theme
+        Paper Work Theme
         </div>
     </td>
+    <tr>
+    <td colspan="3" align="center" style="border:2px solid;">
+        <a href="https://github.com/attilaberencsi/abapthemes" target="_blank" rel="noopener noreferrer">
+        <img src="assets/NinjaTurtlesTheme.png" alt="Ninja Turtles Theme" style="border: 3px solid brown;"/>
+        </a>
+        <div style="margin-top: 8px; font-size: 1em; font-style: italic; color: inherit;">
+        Ninja Turtles Theme
+        </div>
+    </td>
+    </tr>    
     <tr>
     <td colspan="3" align="center" style="border:2px solid;">
         <a href="https://github.com/attilaberencsi/abapthemes" target="_blank" rel="noopener noreferrer">
         <img src="assets/ABAPDarkTheme.png" alt="ABAP Paper Work Theme" style="border: 3px solid brown;"/>
         </a>
         <div style="margin-top: 8px; font-size: 1em; font-style: italic; color: inherit;">
-        ABAP Dark Theme
+        Dark Theme
         </div>
     </td>
     </tr> 
