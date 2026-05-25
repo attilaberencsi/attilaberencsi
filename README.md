@@ -61,7 +61,12 @@
         <a href="https://attilaberencsi.github.io/jsplay" target="_blank"><b>Javascript Playground</b></a>
         <br>
         <sub>Samples and Freestyle coding</sub>
-      </td>      
+      </td>
+      <td width="33%" style="border:2px solid;">
+        <a href="https://github.com/attilaberencsi/abapwulu" target="_blank"><b>Where-Used-List Update by Package</b></a>
+        <br>
+        <sub>ABAP Console or Report</sub>
+      </td>            
     </tr>    
     <tr>
     <td colspan="3" align="center" style="border:2px solid;">
